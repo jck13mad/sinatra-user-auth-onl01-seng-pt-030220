@@ -1,1 +1,1 @@
-class CreateUsers < ActiveRecord::Base
+class CreateUsers < ActiveRecord::Migration
